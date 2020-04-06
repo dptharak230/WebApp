@@ -106,6 +106,7 @@ Product &#160;&#160;&#160;&#160;&#160;<select name="product">
   <option value="DIGITAL TV">DIGITAL TV</option>
   <option value="BROADBAND">BROADBAND</option>
   <option value="PAYMENT">PAYMENT</option>
+  <option value="FIBER">FIBER OPTICS</option>
   </select><br>
 Prob Descp&#160;<input type="text" name="problemdescription"><br>
 Contact     &#160;&#160;&#160;&#160;&#160;<input type="text" name="contact"><br>
