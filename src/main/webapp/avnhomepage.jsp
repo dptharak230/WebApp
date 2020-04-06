@@ -62,6 +62,12 @@ color:white;
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Configure</a><br>
+</section>	 
+<section class="wlp-login-message-content" style="left: 900px;top: 210px;">
+<b><p style="text-align: center;font-size: 25px;">FAQ</p></b>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Recent Queries</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">All Queries</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Post a Query</a><br>
 </section>
 <div>
 </div>
