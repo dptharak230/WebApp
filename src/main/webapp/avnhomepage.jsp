@@ -66,7 +66,7 @@ color:white;
 <section class="wlp-login-message-content" style="left: 1160px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">FAQ</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Recent Queries</a><br>
-<a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">All Queries</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">All Queries</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Post a Query</a><br>
 </section>
 <div>
